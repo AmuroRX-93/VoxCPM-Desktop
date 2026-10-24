@@ -1,0 +1,10 @@
+{
+  "actual_bundle_copy": true,
+  "models_present": true,
+  "framework_symlink": true,
+  "existing_target_protected": true,
+  "configured": {
+    "configured": true,
+    "device": "mps"
+  }
+}

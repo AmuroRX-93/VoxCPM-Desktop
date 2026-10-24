@@ -1,0 +1,14 @@
+{
+  "mac": {
+    "runtime_files": 25701,
+    "missing_or_mismatched": [],
+    "internal_symlinks": true,
+    "native_arch": "arm64"
+  },
+  "windows": {
+    "runtime_files": 26456,
+    "missing_or_mismatched": [],
+    "internal_symlinks": true,
+    "native_arch": "PE x86_64"
+  }
+}

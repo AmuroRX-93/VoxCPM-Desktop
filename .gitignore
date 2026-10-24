@@ -1,0 +1,17 @@
+models/
+runtimes/
+downloads/
+dist/
+build/
+node_modules/
+*.log
+*.wav
+*.mp3
+*.m4a
+*.safetensors
+*.pth
+*.7z*
+*.dmg
+.env*
+__pycache__/
+.DS_Store
