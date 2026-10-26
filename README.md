@@ -8,7 +8,7 @@
 
 ## 下载与安装
 
-完整离线发布包见 [v1.0.0 Releases](https://github.com/AmuroRX-93/VoxCPM-Desktop/releases/tag/v1.0.0)。这是首个预览版；请按平台下载全部分卷，并核对 SHA256SUMS.txt。Windows 尚待实机验收。
+1.0.0 完整离线包正在补发；附件校验完成后会公开到 [Releases](https://github.com/AmuroRX-93/VoxCPM-Desktop/releases)。这是首个预览版，Windows 尚待实机验收。源码 ZIP 不含模型。
 
 在 [Releases](../../releases) 下载对应平台名称下的所有 `.7z.001`、`.7z.002` 等分卷，放在同一个目录，使用 7-Zip 或 Keka 打开第一卷解压；不要逐卷解压。GitHub 的 Source code ZIP 只有源码，没有模型。
 
